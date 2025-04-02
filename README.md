@@ -37,7 +37,7 @@
 <body>
   <header>
     <h1>CARfixhelper</h1>
-    <p><strong>Team Members:</strong> Atahan Ors, [Add other team members]</p>
+    <p><strong>Team Members:</strong> Atahan Ors</p>
     <p><strong>Proposal Last Updated:</strong> April 2, 2025</p>
   </header>
 
