@@ -26,21 +26,25 @@
     ul {
       list-style-type: square;
       padding-left: 20px;
-    <img src="https://github.com/user-attachments/assets/b92c4290-ce4b-4620-b7b2-30af010b57c7" alt="CARfixhelper Feature Preview" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>CARfixhelper</h1>
-    <p><strong>Team Members:</strong> Atahan Ors</p>
+    <p><strong>Team Members:</strong> Atahan Ors, [Add other team members]</p>
     <p><strong>Proposal Last Updated:</strong> April 2, 2025</p>
   </header>
 
   <section>
     <h2>Application Overview</h2>
     <p>CARfixhelper is a web application designed to help everyday users diagnose and track their vehicle issues. With an intuitive interface, users can log car symptoms, get probable causes, find DIY repair guides, and locate nearby mechanics with ease.</p>
-    ![Image](https://github.com/user-attachments/assets/b92c4290-ce4b-4620-b7b2-30af010b57c7)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Auto_repair_shop.jpg/800px-Auto_repair_shop.jpg" alt="Car Repair Shop" />
   </section>
 
   <section>
@@ -93,7 +97,7 @@
       <li>API-based mechanic search results</li>
       <li>Dynamic UI updates with jQuery or vanilla JS</li>
     </ul>
-<img src="https://github.com/user-attachments/assets/97d43f1f-4255-4612-afd7-ab33f70449c7" alt="CARfixhelper Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+   <img src="https://github.com/user-attachments/assets/97d43f1f-4255-4612-afd7-ab33f70449c7" alt="CARfixhelper Screenshot" style="max-width: 50%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </section>
 </body>
 </html>
