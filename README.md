@@ -44,7 +44,7 @@
   <section>
     <h2>Application Overview</h2>
     <p>CARfixhelper is a web application designed to help everyday users diagnose and track their vehicle issues. With an intuitive interface, users can log car symptoms, get probable causes, find DIY repair guides, and locate nearby mechanics with ease.</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Auto_repair_shop.jpg/800px-Auto_repair_shop.jpg" alt="Car Repair Shop" />
+    ![Image](https://github.com/user-attachments/assets/b92c4290-ce4b-4620-b7b2-30af010b57c7)
   </section>
 
   <section>
