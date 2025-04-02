@@ -97,7 +97,7 @@
       <li>API-based mechanic search results</li>
       <li>Dynamic UI updates with jQuery or vanilla JS</li>
     </ul>
-    ![DASH!](https://github.com/user-attachments/assets/97d43f1f-4255-4612-afd7-ab33f70449c7)
+<img src="https://github.com/user-attachments/assets/97d43f1f-4255-4612-afd7-ab33f70449c7" alt="CARfixhelper Screenshot" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </section>
 </body>
 </html>
