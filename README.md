@@ -97,7 +97,7 @@
       <li>API-based mechanic search results</li>
       <li>Dynamic UI updates with jQuery or vanilla JS</li>
     </ul>
-    ![DASH!](https://images.unsplash.com/photo-1615517331072-da8aab44f923?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FyJTIwZGFzaHxlbnwwfHwwfHx8MA%3D%3D)
+    ![Image](https://github.com/user-attachments/assets/1f2e4221-0273-40ac-b3f6-deca60267e29)
   </section>
 </body>
 </html>
