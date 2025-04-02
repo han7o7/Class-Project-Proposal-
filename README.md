@@ -26,8 +26,8 @@
     ul {
       list-style-type: square;
       padding-left: 20px;
-    }
-    img {
+    <img src="https://github.com/user-attachments/assets/b92c4290-ce4b-4620-b7b2-30af010b57c7" alt="CARfixhelper Feature Preview" style="width: 80%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8
+
       max-width: 100%;
       height: auto;
       border-radius: 8px;
